@@ -1,0 +1,1 @@
+Juste run the index.html && see the results in the console !
